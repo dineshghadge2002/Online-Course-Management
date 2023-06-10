@@ -1,0 +1,1 @@
+<body style="background: url(images/banking_wp.jpg);background-size: 100%">
